@@ -1,0 +1,38 @@
+Wisconsin Diagnostic Breast Cancer (WDBC) Dataset
+
+Application: Used for breast cancer diagnosis, distinguishing between malignant and benign tumors.
+Attributes: 30 numerical features computed from digitized images of fine needle aspirate (FNA) biopsies, including radius, texture, smoothness, and concavity.
+Number of Samples: 569 instances.
+Number of Classes: 2 (Malignant, Benign).
+
+
+CDC Diabetes Health Indicators
+
+Application: Predicts the presence of diabetes based on health indicators such as BMI, smoking status, and physical activity.
+Attributes: Multiple health-related attributes, including blood pressure, cholesterol, physical activity, BMI, and demographic details.
+Number of Samples: Varies depending on the specific dataset version, typically large (in the thousands).
+Number of Classes: 2 (Diabetic, Non-Diabetic).
+
+
+AIDS Clinical Trials Group (ACTG) Study 175
+
+Application: Used in clinical trials to assess HIV treatment effectiveness based on different drug regimens.
+Attributes: Patient-specific health markers, including CD4 counts, age, treatment groups, and laboratory test results.
+Number of Samples: 2,467 patients.
+Number of Classes: Multiple outcome groups related to treatment efficacy.
+
+
+Phishing Websites Dataset
+
+Application: Used for detecting phishing websites by analyzing URL and webpage features.
+Attributes: 30 categorical and numerical features, including SSL state, URL length, number of redirections, and presence of suspicious words.
+Number of Samples: 11,055 instances.
+Number of Classes: 2 (Phishing, Legitimate).
+
+
+Secondary Mushroom Dataset
+
+Application: Identifies whether a mushroom is edible or poisonous based on its physical characteristics.
+Attributes: Multiple categorical attributes such as cap shape, color, odor, gill spacing, and spore print color.
+Number of Samples: 8,124 instances.
+Number of Classes: 2 (Edible, Poisonous).
